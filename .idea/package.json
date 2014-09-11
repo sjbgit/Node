@@ -1,0 +1,9 @@
+{
+    "name": "application-name",
+    "version": "0.0.1",
+
+    "dependencies": {
+        "express": ">= 1.2.0",
+        "optimist": ">= 0.1.0"
+    }
+}
